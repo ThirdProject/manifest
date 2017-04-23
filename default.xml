@@ -151,6 +151,7 @@
   <project name="android_external_kissfft" />
   <project name="android_external_libavc" />
   <project name="android_external_libcap-ng" />
+  <project name="android_external_libchrome" />
   <project name="android_external_libffi" />
   <project name="android_external_libgsm" />
   <project name="android_external_libhevc" />
