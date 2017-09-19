@@ -84,6 +84,7 @@
   <project name="android_external_crda" />
   <project name="android_external_curl" />
   <project name="android_external_dbus" />
+  <project name="android_external_deqp" />
   <project name="android_external_dexmaker" />
   <project name="android_external_dhcpcd" />
   <project name="android_external_dnsmasq" />
