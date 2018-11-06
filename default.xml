@@ -69,6 +69,7 @@
   <project name="android_external_bzip2" />
   <project name="android_external_cardslib" />
   <project name="android_external_checkpolicy" />
+  <project name="android_external_chromium-libpac" />
   <project name="android_external_chromium-trace" />
   <project name="android_external_chromium-webview" />
   <project name="android_external_chromium" />
